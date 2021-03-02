@@ -16,7 +16,7 @@ namespace Part_4___Random_Numbers_Assignment
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new RandomNumbers());
         }
     }
 }
